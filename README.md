@@ -2,7 +2,17 @@
 
 auto install pyenv , pyenv virtualenv , update pip mirrors [ustc]
 
-*2016-12-26 Beta v0.01*
+**2017-1-19 Beta v0.19**
+
+update lib
+sometime you should install some lib
+
+such as:
+> zlibc zlib1g-dev libbz2-dev libssl-dev libreadline6 libreadline6-dev libsqlite3-dev;
+
+
+**2016-12-26 Beta v0.01**
+
 you just do
 
 ```

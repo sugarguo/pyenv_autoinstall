@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt-get install -y zlibc zlib1g-dev libbz2-dev libssl-dev libreadline6 libreadline6-dev libsqlite3-dev;
+
 (
 cat << EOF
 [global]
